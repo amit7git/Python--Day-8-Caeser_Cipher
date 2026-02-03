@@ -79,4 +79,4 @@ This project helped me understand the fundamentals of classical encryption techn
 ---
 
 ## 🌐 Live Demo
-https://amit7git.github.io/Python--Day-8-Caeser_Cipher/
+https://amit7git.github.io/Python--Day-8-Caesar_Cipher/
